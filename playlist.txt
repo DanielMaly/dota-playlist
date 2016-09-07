@@ -25,107 +25,23 @@ PROBLEMATIC  TRACKS:
 #EXTINF:211,discobitch  c est beau la bourgeoisie   NEW
 \Music\discobitch__c_est_beau_la_bourgeoisie___NEW.mp3
 
+#EXTINF:242,American Party Girls  -  Part 1  Trance Music  NEW
+\Music\American_Party_Girls_-_Part_1__Trance_Music__NEW.mp3
+
+#EXTINF:240,Within Temptation - Running up that Hill
+\Music\01. Running up that Hill.mp3
+
+#EXTINF:196,California
+\Music\04-Track-04.mp3
+
+#EXTINF:158,Prague City.mp3
+\Music\Prague City.mp3.mp3
+
 
 -----------------------------------------------------------------
 REMAINING TRACKS:
 -----------------------------------------------------------------
 
-#EXTINF:242,American Party Girls  -  Part 1  Trance Music  NEW
-\Music\American_Party_Girls_-_Part_1__Trance_Music__NEW.mp3
-#EXTINF:276,Peter  Bjorn  amp  John  -  Young Folks
-\Music\Peter__Bjorn__amp__John_-_Young_Folks.mp3
-#EXTINF:328,Rihanna - feat T.I Live Your Life Exten
-\Music\Rihanna_feat_T.I_Live_Your_Life_Extended_Version_radio_edit__NEW.mp3
-#EXTINF:175,Oto Klempir - Vanilly Car
-\Music\19-oto_klempir-vanilly_car-piad.mp3
-#EXTINF:-1,10 Rehab
-H:\Back up\Jirka\Documents\Downloads\Rihanna.-.Good_Girl_Gone_Bad.[Deluxe.Edition].FLAC\CD1\10 Rehab.flac
-#EXTINF:310,Coldplay - Talk
-\Music\Coldplay - X and Y\05-coldplay-talk.mp3
-#EXTINF:157,Sum 41 - Still Waiting
-\Music\Sum 41\Sum 41 - Still Waiting.mp3
-#EXTINF:268,DJ Khaled - We Takin Over (Remix)
-\Music\DJ Khaled - We Takin Over (Remix).mp3
-#EXTINF:251,Zvuk - Zvuk - Gym Class Heroes - Cookie Jar
-\Music\Gym Class Heroes - Cookie Jar.mp3
-#EXTINF:248,Beyonce - If I Were A Boy
-\Music\Beyonce - If I Were A Boy.mp3
-#EXTINF:239,Lady Gaga - Poker Face
-\Music\Lady Gaga - Poker Face.mp3
-#EXTINF:254,Slipknot - Duality
-\Music\Slipknot - Duality.mp3
-#EXTINF:274,Morandi - Save Me
-\Music\Morandi - Save Me.mp3
-#EXTINF:294,Freestyler
-\Music\Freestyler.mp3
-#EXTINF:195,September - Satellites
-\Music\04-september-satellites.mp3
-#EXTINF:361,t.i. feat. justin timberlake - dead and gone(Remix)
-\Music\t.i. feat. justin timberlake - dead and gone(Remix).mp3
-#EXTINF:244,Christina Aguilera - Hurt
-\Music\Christina Aguilera - Hurt.mp3
-#EXTINF:172,M.I.A. - ft. Lil Wayne
-\Music\M.I.A.-Paper Planes Remix - ft. Lil Wayne.mp3
-#EXTINF:207,The Calling - Wherever You Will Go
-\Music\The Calling - Wherever you will go.mp3
-#EXTINF:202,U2 And Green Day - The Saints Are Coming
-\Music\U2 & Green Day - The Saints Are Coming.mp3
-#EXTINF:240,Within Temptation - Running up that Hill
-\Music\01. Running up that Hill.mp3
-#EXTINF:297,Flo-Rida feat Dj Tommis - Right Round (Club Station 2009)
-\Music\10319-florida_feat_dj_tommis__right_round_club_station_2009.mp3
-#EXTINF:192,Cascada - Cascada-Bad Boy
-\Music\Cascada - Bad Boy.mp3
-#EXTINF:292,AC/DC - Thunderstruck
-\Music\ACDC-Thunderstruck.mp3
-#EXTINF:269,Bushido - F¸r Immer Jung (Feat. Karel Gott)
-\Music\bushido - fur immer jung ft karel gott.mp3
-#EXTINF:248,Enrique Iglesias - Sad Eyes
-\Music\Enrique Iglesias - Sad Eyes.mp3
-#EXTINF:254,The Veronicas - Untouched
-\Music\Veronicas - untouched.mp3
-#EXTINF:218,Kanye West - Love Lockdown Remix
-\Music\Kanye West - Love Lockdown Remix.mp3
-#EXTINF:211,Skindred - Pressure
-\Music\Skindred - Babylon - 03. Pressure.mp3
-#EXTINF:-1,01 - Galvanize
-H:\Back up\Jirka\Downloads\The Chemical Brothers - Brotherhood - Deluxe Edition (2008) [EAC - FLAC] (oan)\The Chemical Brothers - Brotherhood (2008) [EAC - FLAC] (oan\01 - Galvanize.flac
-#EXTINF:219,Damien Rice - 9 Crimes
-\Music\damien rice - 9crimes.mp3
-#EXTINF:216,novaspace  dancing into danger
-\Music\novaspace__dancing_into_danger.mp3
-#EXTINF:356,Marilyn Manson - If I Was Your Vampire
-\Music\marilyn_manson_if_i_was_your_vampire.mp3
-#EXTINF:190,Rednex - Cotton Eye Joe
-H:\Back up\Jirka\dwhelper\REDNEX%20cotton%20eye%20joe.mp3
-#EXTINF:195,BeyoncÈ - Single Ladies (Put A Ring On It)
-\Music\Beyonce - All the single ladies.mp3
-#EXTINF:261,Beyonce - Halo
-\Music\Beyonce - Halo.mp3
-#EXTINF:254,Flo -  Sugar
-\Music\Flo-Rida_feat_Wynter_-_Sugar.mp3
-#EXTINF:191,Jupi tralala - Andel
-\Music\Xindl X - AndÏl.mp3
-#EXTINF:226,Pussycat Dolls & P@X@Tu*HCK*u - Jai Ho (2009)
-\Music\pussycat dolls - jai ho 2009.mp3
-#EXTINF:221,Kid Cudi - Day & Night
-\Music\Night.mp3
-#EXTINF:198,Alesha Dixon - The Boy Does Nothing
-\Music\Alesha Dixon - The Boy Does Nothing.mp3
-#EXTINF:186,Pink - Sober
-\Music\Pink - Sober.mp3
-#EXTINF:180,september - cant get over
-\Music\03-september - cant get over.mp3
-#EXTINF:177,Gregoire - Toi plus moi
-\Music\gregoire - toi plus moi.mp3
-#EXTINF:196,California
-\Music\04-Track-04.mp3
-#EXTINF:208,The Prodigy  -  Voodoo People Pendulum Remix
-\Music\The_Prodigy_-_Voodoo_People_Pendulum_Remix.mp3
-#EXTINF:246,Fergie - Glamorous
-\Music\07Fergie-GlamorousFeatLudacris.mp3
-#EXTINF:158,Prague City.mp3
-\Music\Prague City.mp3.mp3
 #EXTINF:277,Chris Brown - Forever[mp3.teledyski.info]
 \Music\Chris Brown - Forever[mp3.teledyski.info].mp3
 #EXTINF:159,Akon - Beautiful (Ft. Kardinal Offishall & Colby O'Donis) (Prod. by Akon)
